@@ -1,5 +1,5 @@
 {        
-    "name": "vscode-theme-onedarksnooker",
+    "name": "vscode-theme-snookerdarkone",
     "version": "0.0.1",
     "engines": {
         "vscode": ">=0.9.0-pre.1"
@@ -8,9 +8,9 @@
    "contributes": {
         "themes": [
             {
-                "label": "OneDarkSnooker",
+                "label": "Snooker Dark One",
                 "uiTheme": "vs-dark",
-                "path": "./themes/OneDarkSnooker.tmTheme"
+                "path": "./themes/SnookerDarkOne.tmTheme"
             }
         ]
     }
