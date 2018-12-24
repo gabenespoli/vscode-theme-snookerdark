@@ -3,6 +3,8 @@
 Merry Christmas Dane! This is a clone of my vim colorscheme based on the colors
 of a snooker table for Visual Studio Code.
 
+![FashionFind in SnookerDark](screenshot.png)
+
 ## Installation
 
 1. If you have already installed VSCode, you probably already have a
