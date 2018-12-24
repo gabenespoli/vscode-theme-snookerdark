@@ -1520,7 +1520,9 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#DF7376</string>
+          <string>#@fg_bright</string>
+          <key>fontStyle</key>
+          <string>bold</string>
         </dict>
       </dict>
       <dict>
@@ -1531,7 +1533,9 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#DF7376</string>
+          <string>#@fg_bright</string>
+          <key>fontStyle</key>
+          <string>bold</string>
         </dict>
       </dict>
       <dict>
@@ -1542,7 +1546,9 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#ADAD9B</string>
+          <string>#@fg_bright</string>
+          <key>fontStyle</key>
+          <string>bold</string>
         </dict>
       </dict>
       <dict>
